@@ -392,3 +392,5 @@ const app = new App();
 // editable use either html or js = better html so no hassle = ✅
 
 // to remove workoutbar i think we use data.set id to remove it / remove base on id
+
+console.log('hello');
